@@ -2,6 +2,8 @@
 
 Autonomous DeFi agent dashboard for the OKX Build X Hackathon (X Layer).
 
+Live Demo: https://aesthetic-rolypoly-63f207.netlify.app/
+
 ## Setup
 
 1) Install Node.js 20+.
@@ -30,6 +32,8 @@ npm run dev
 ```
 
 Open `http://localhost:3000`.
+
+Live Demo: https://aesthetic-rolypoly-63f207.netlify.app/
 
 ## Architecture
 
